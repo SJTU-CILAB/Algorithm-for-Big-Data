@@ -4,6 +4,31 @@
 
 课程内容按 Lecture 1–22 组织，覆盖 MapReduce 与 Spark、相似性与近邻检索、大规模机器学习、图数据挖掘、推荐系统、时间序列分析和数据流挖掘。当前包含 22 讲课件、36 个 Jupyter Notebook 和 4 份 Chapter 作业代码模板。
 
+## AI 课程助教
+
+<a href="https://wbapp-xdrboti5h2c1km3knhvnz2.app.workbuddy.host/?sharecode=V3MGCTQXIW"><img src="docs/assets/course-ta-icon.svg" alt="大数据算法 AI 课程助教图标" width="88" align="right"></a>
+
+**[打开 AI 课程助教 →](https://wbapp-xdrboti5h2c1km3knhvnz2.app.workbuddy.host/?sharecode=V3MGCTQXIW)**
+
+使用普通浏览器即可直接提问，无需安装客户端或登录 WorkBuddy。助教由 [WorkBuddy](https://www.workbuddy.cn/) 发布，结合本仓库资料提供：
+
+- **概念与推导讲解**：解释算法直觉、定义、公式和例子。
+- **实验与代码定位**：查找 Notebook 单元格、源码函数和对应讲次。
+- **作业辅导**：定位 Chapter 模板，提供分步提示、伪代码与检查方法。
+- **复习规划**：按讲次梳理重点和知识联系。
+
+打开页面后可选择讲次，也可保留“全部”。回答下方的“课程出处”可展开查看文件位置和 GitHub 原文；课件引用使用 **PDF 物理页码**，代码引用注明函数、行号或单元格。切换学习主题时可点击“新建对话”。网页会话历史保存在各自浏览器，不会自动跨设备同步。
+
+可以这样提问：
+
+- “Chapter 3 作业在哪里、做什么？”
+- “MinHash 与 LSH 有什么关系？请引用课件物理页码。”
+- “帮我制定 Lecture 1–6 的复习计划。”
+
+**资料范围**：22 讲课件共 1120 页 PDF、36 个 Notebook、6 份 Tutorial、4 份作业模板及 29 个 Python 源文件。当前知识基准为仓库提交 [`78b9424`](https://github.com/SJTU-CILAB/Algorithm-for-Big-Data/commit/78b942463ff51b2e5bd197c8bdd64b2581832eb7)；仓库后续更新需重新整理资料并更新发布，不会自动同步到助教。提交时间和考核安排以当期课程通知为准，课件中的历史安排不能直接视为本学期通知。
+
+**模型与额度**：在线助教当前使用云端目录标价为 0 积分的 Hy3。每次提问前会复核模型启用状态和 0 积分标价，条件不满足时暂停调用，不自动切换到收费模型。云服务另使用发布账号的资源点额度，额度不足时服务可能暂停。
+
 ## 目录结构
 
 | 目录 | 内容 |

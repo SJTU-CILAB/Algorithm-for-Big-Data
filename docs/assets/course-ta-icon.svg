@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">大数据算法 AI 课程助教</title>
+  <desc id="desc">深红色圆角图标，包含打开的课本、对话气泡和三个数据节点。</desc>
+  <rect width="128" height="128" rx="30" fill="#9d1636"/>
+  <path d="M23 43c14-4 27-2 41 5v46c-14-7-27-9-41-5zm82 0c-14-4-27-2-41 5v46c14-7 27-9 41-5z" fill="#fff"/>
+  <path d="M64 49v45M33 55l20 5M33 66l20 5M75 60l20-5M75 71l20-5" fill="none" stroke="#9d1636" stroke-linecap="round" stroke-width="3"/>
+  <path d="M57 22h43a10 10 0 0 1 10 10v12a10 10 0 0 1-10 10H84L73 64V54H57a10 10 0 0 1-10-10V32a10 10 0 0 1 10-10z" fill="#f4c86b" stroke="#9d1636" stroke-width="4"/>
+  <g fill="#69203a"><circle cx="64" cy="38" r="3"/><circle cx="79" cy="38" r="3"/><circle cx="94" cy="38" r="3"/></g>
+</svg>
